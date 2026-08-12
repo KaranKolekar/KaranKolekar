@@ -1,47 +1,44 @@
-<h1 align="center">Hey there, I'm Karan Kolekar</h1>
+<div align="center">
 
-<p align="center">Below are some resources and stats you might find interesting</p>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <!-- Animated Typing Title -->
+  <a href="https://github.com/KaranKolekar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=50&lines=Hey+there!+I'm+Karan+Kolekar+%F0%9F%91%8B;Data+Science+%26+AI%2FML+Enthusiast;Filmmaker+%26+Storyteller;Turning+Data+into+Real-World+Impact" alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/karan-kolekar-ba2835290/)" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/KaranKolekar" target="_blank">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOW&style=for-the-badge&color=21262d" alt="Follow" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
 
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=KaranKolekar&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+  <p><i>"Translating data into insights, and insights into stories." 🎬📊</i></p>
 
-👋 Hi, I'm Karan!
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://discord.com" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
 
-🎓 B.Tech Data Science Student
-🐍 Python | SQL | Data Science | AI/ML
-📊 Passionate about turning data into meaningful insights
-🤖 Currently learning Machine Learning, AI & real-world data projects
-💻 Building projects to improve my problem-solving and development skills
-🎬 Also interested in filmmaking, storytelling & creative content
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=KaranKolekar&color=00d26a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-🚀 My goal is to become a skilled Data Scientist / AI-ML professional and build solutions that solve real-world problems.
-### Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,git,github,vscode" />
-</p>
+</div>
 
-### My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranKolekar&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<br/>
 
-### Activity on GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranKolekar&theme=dark" alt="GitHub Streak Stats" />
-</p>
+### ⚡ About Me
+
+```python
+class KaranKolekar:
+    def __init__(self):
+        self.role = "Data Science Student & AI/ML Enthusiast"
+        self.passions = ["Machine Learning", "Data Analytics", "Filmmaking & Cinema"]
+        self.current_focus = "Building AI models & full-stack intelligent solutions"
+        self.hobbies = ["Scriptwriting & Directing", "Public Speaking", "Creative Tech"]
+
+    def get_goal(self):
+        return "Solving real-world problems through data & intelligent systems!"
+
+me = KaranKolekar()
+print(me.get_goal())
