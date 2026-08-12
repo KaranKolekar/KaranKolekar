@@ -33,7 +33,7 @@
 🚀 My goal is to become a skilled Data Scientist / AI-ML professional and build solutions that solve real-world problems.
 ### Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,git,github,vscode" />
 </p>
 
 ### My Stats
